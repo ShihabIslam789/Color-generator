@@ -1,7 +1,9 @@
 #### Values JS
-
- The values are borowed from this gitrhub source follow instructions from page first <br>
+ Enter the any hex value in the search bar to find its represented color and click on it to copy it. <br>
+ The values are borrowed from this gitrhub source follow instructions from page first <br>
+ 
 [values.js](https://github.com/noeldelgado/values.js)
+
 
 
  ### Getting Started with Create React App
