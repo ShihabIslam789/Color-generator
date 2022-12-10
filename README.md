@@ -1,5 +1,6 @@
 #### Values JS
 
+ The values are borowed from this gitrhub source follow instructions from page first <br>
 [values.js](https://github.com/noeldelgado/values.js)
 
 
